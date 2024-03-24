@@ -1,0 +1,13 @@
+entries:
+  - title: me
+    entries:
+      - title: email 
+        url: mailto:laura.hetz@inf.ethz.ch
+      - title: github
+        url: http://github.com/laurahetz/
+      - title: applied cryptography group
+        url: https://appliedcrypto.ethz.ch/people/person-detail.MzIxMzAx.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html
+      - title: linkedin
+        url: https://www.linkedin.com/in/laura-hetz/
+      - title: google scholar
+        url: https://scholar.google.com/citations?user=vsZPkhkAAAAJ
