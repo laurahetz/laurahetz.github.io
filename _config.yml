@@ -21,10 +21,10 @@
 ## https://riggraz.dev/no-style-please/
 
 title: Laura Hetz
-email: laura.hetz@inf.ethz.ch
+email: laura.hetz at inf.ethz.ch
 #description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "laurahetz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lahetz
 github_username:  laurahetz
 #linkedin
@@ -41,6 +41,7 @@ theme_config:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
