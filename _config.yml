@@ -21,13 +21,16 @@
 ## https://riggraz.dev/no-style-please/
 
 title: Laura Hetz
+description: Personal Webpage of Laura Hetz
 email: laura.hetz at inf.ethz.ch
 #description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "laurahetz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lahetz
 github_username:  laurahetz
-#linkedin
+linkedin: https://www.linkedin.com/in/laura-hetz/
+scholar: https://scholar.google.com/citations?user=vsZPkhkAAAAJ
+ac: https://appliedcrypto.ethz.ch/people/person-detail.MzIxMzAx.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html
 
 # Build settings
 #theme: minima
