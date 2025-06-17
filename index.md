@@ -12,8 +12,11 @@ Before, I worked on [private mobile contact discovery](https://contact-discovery
 
 ## publications
 
+**[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](https://eprint.iacr.org/2025/971)**
+Laura Hetz, Thomas Schneider, and Christian Weinert. ESORICS'23
+
 **[Scaling Mobile Private Contact Discovery to Billions of Users](https://ia.cr/2023/758)**
-Laura Hetz, Thomas Schneider, Christian Weinert. ESORICS'23
+Christoph Coijanovic, Laura Hetz, Kenneth G. Paterson, and Thorsten Strufe. ACM CCS'25
 
 ## work & teaching experience
 
