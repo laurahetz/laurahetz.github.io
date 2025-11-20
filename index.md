@@ -7,7 +7,8 @@ layout: home
 Hi, I'm Laura Hetz, a doctoral student at [ETH Zürich](https://ethz.ch/en.html) with the [Applied Cryptography group](https://appliedcrypto.ethz.ch/).
 My research interests lie in the design, evaluation, and implementation of privacy-enhancing technologies, and anonymous communication systems.
 
-Before, I worked on [private mobile contact discovery](https://contact-discovery.github.io/) with [Christian Weinert](https://pure.royalholloway.ac.uk/en/persons/christian-weinert) and [Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp) at the Technical University of Darmstadt.
+Before, I worked on unbalanced private set intersection in the context of [private mobile contact discovery](https://contact-discovery.github.io/) with [Christian Weinert](https://pure.royalholloway.ac.uk/en/persons/christian-weinert) and [Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp) at the Technical University of Darmstadt.
+
 
 
 
@@ -21,7 +22,7 @@ Christoph Coijanovic, Laura Hetz, Kenneth G. Paterson, and Thorsten Strufe. ACM 
 Laura Hetz, Thomas Schneider, and Christian Weinert. ESORICS'23
 
 
-## Talks
+## talks
 
 - **[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](media/CCS25-Sabot.pdf)** @ ACM CCS 2025
 - **Two-Server Authenticated PIR with Client-Preprocessing** @ YRCS 2025 in Constance
