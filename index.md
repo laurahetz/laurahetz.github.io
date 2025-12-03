@@ -14,13 +14,14 @@ Before, I worked on unbalanced private set intersection in the context of [priva
 
 ## publications
 
+**[TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing](https://ia.cr/2025/2177)**
+Francesca Falzon, Laura Hetz, Annamira O'Toole. To appear at ACNS'26
 
-**[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](https://eprint.iacr.org/2025/971)**
+**[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](https://ia.cr/2025/971)**
 Christoph Coijanovic, Laura Hetz, Kenneth G. Paterson, and Thorsten Strufe. ACM CCS'25
 
 **[Scaling Mobile Private Contact Discovery to Billions of Users](https://ia.cr/2023/758)**
 Laura Hetz, Thomas Schneider, and Christian Weinert. ESORICS'23
-
 
 ## talks
 
