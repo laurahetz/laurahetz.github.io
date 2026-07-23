@@ -5,6 +5,7 @@ layout: home
 ## about me
 
 Hi, I'm Laura Hetz, a doctoral student at [ETH Zürich](https://ethz.ch/en.html) with the [Applied Cryptography group](https://appliedcrypto.ethz.ch/).
+I am supervised by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.kpaterson.html) and co-supervised by [Paul Rösler](https://www.roeslpa.de/).
 My research interests lie in the design, evaluation, and implementation of privacy-enhancing technologies, and anonymous communication systems.
 
 Before, I worked on unbalanced private set intersection in the context of [private mobile contact discovery](https://contact-discovery.github.io/) with [Christian Weinert](https://pure.royalholloway.ac.uk/en/persons/christian-weinert) and [Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp) at the Technical University of Darmstadt.
@@ -15,7 +16,7 @@ Before, I worked on unbalanced private set intersection in the context of [priva
 ## publications
 
 **[TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing](https://ia.cr/2025/2177)**
-Francesca Falzon, Laura Hetz, Annamira O'Toole. To appear at ACNS'26
+Francesca Falzon, Laura Hetz, Annamira O'Toole. ACNS'26
 
 **[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](https://ia.cr/2025/971)**
 Christoph Coijanovic, Laura Hetz, Kenneth G. Paterson, and Thorsten Strufe. ACM CCS'25
@@ -27,21 +28,31 @@ Laura Hetz, Thomas Schneider, and Christian Weinert. ESORICS'23
 
 - **[Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels](media/CCS25-Sabot.pdf)** @ ACM CCS 2025
 - **Two-Server Authenticated PIR with Client-Preprocessing** @ YRCS 2025 in Constance
-- **Bandwidth-efficient Mobile Private Contact Discovery for Billions of Users** @ CAST Förderpreis Master's Thesis 2023 (won 1st place)
+- **Bandwidth-efficient Mobile Private Contact Discovery for Billions of Users** @ CAST Förderpreis 2023
 - **[Scaling Mobile Contact Discovery to Billions of Users](media/ESORICS23-Disco.pdf)** @ ESORICS 2023
 
-## work & teaching experience
+## teaching experience
 
-- Fall 2025: Teaching Assistant for *Computer Science*, BSc course at ETH Zurich, Switzerland
+- Fall 2024, 2025, 2026: Teaching Assistant for *Computer Science*, BSc course at ETH Zurich, Switzerland
 - Fall 2024: Head Teaching Assistant *Privacy Enhancing Technologies* (1st half on cryptography), MSc course at ETH Zurich, Switzerland
-- Fall 2024: Teaching Assistant for *Computer Science*, BSc course at ETH Zurich, Switzerland
 - Spring 2024: Teaching Assistant for *Computer Science II*, BSc course at ETH Zurich, Switzerland
+
+## industry experience
+
 - 2017 - 2020: *Security Consultant* for Identity and Access Management, DXC Technology, Germany
 - 2014 - 2017: Various internships at HP, Hewlett Packard Enterprise, and DXC Technology in Germany
 
 ## education
 
+- Apr - Jun 2026: Research visit with [Paul Rösler](https://www.roeslpa.de/), [FAU Erlangen-Nürnberg](https://www.chaac.tf.fau.de/forschung/rwc/)
 - since August 2023: *Doctoral Student*, ETH Zürich
 - 2019 - 2023: *M.Sc. IT Security*, Technical University of Darmstadt, Germany
 - 2016: Griffith College Dublin, Ireland
 - 2014 - 2017: *B.Sc. Applied Computer Science*, DHBW Stuttgart, Germany
+
+
+## selected achievements
+
+- **CAST Förderpreis 2023** (1st place, Master's Thesis)
+- **Women STEM Award 2023** (1st place, Master's Thesis)
+- **Women STEM Award 2019** (short list, Bachelor's Thesis)
